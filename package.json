@@ -12,6 +12,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.1",
-    "sharp": "^0.23.3"
+    "sharp": "^0.30.5"
   }
 }
